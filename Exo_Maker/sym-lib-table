@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MagI3C")(type "KiCad")(uri "${KIPRJMOD}/MagI3C.kicad_sym")(options "")(descr ""))
+)
